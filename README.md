@@ -1,0 +1,1 @@
+# Image-Auto-Tagging-with-Amazon-Recognition1
